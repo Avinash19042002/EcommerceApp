@@ -1,5 +1,6 @@
 HELP.md
 target/
+images/
 .mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
@@ -15,7 +16,6 @@ target/
 
 ### IntelliJ IDEA ###
 .idea
-images
 *.iws
 *.iml
 *.ipr
