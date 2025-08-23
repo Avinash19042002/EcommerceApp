@@ -15,7 +15,7 @@ target/
 
 ### IntelliJ IDEA ###
 .idea
-.images
+images
 *.iws
 *.iml
 *.ipr
